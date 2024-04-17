@@ -17,4 +17,4 @@ The core domains are set to extend automatically, a few fringe domains may expir
 
 They are currently registered with a reputable German domain registrar, so transfering them out is easy and painless.
 
-You can reach me here for offers: domains@gardion.de - please include contact details and a concrete offer.
+You can reach me here for offers: **domains@gardion.de** - please include contact details and a concrete offer.
